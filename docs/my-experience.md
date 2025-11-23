@@ -10,6 +10,12 @@
 
 I successfully passed the CNSP exam with a score of **83%**, achieving **Pass with Merit** status. Here's my complete journey, preparation strategy, and tips to help you succeed.
 
+### 🏆 My CNSP Certificate
+
+![CNSP Certificate - Lakshmikanthan K](../LakshmikanthanK-CertifiedNetworkSecurityPractitioner(CNSP).jpg)
+
+*Certified Network Security Practitioner (CNSP) - 83% Merit Pass*
+
 ---
 
 ## 📚 My Background

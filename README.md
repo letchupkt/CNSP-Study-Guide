@@ -70,9 +70,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - IoT & Hardware Development
 
 **Certifications**:
-- Certified Network Security Practitioner (CNSP) - 83% Merit
-- Certified Cybersecurity Educator Professional (CCEP)
+- Certified Network Security Practitioner (CNSP) - 83% Merit ✅
+- Certified Cybersecurity Educator Professional (CCEP) ✅
 - Multiple industry certifications in cybersecurity and development
+
+<div align="center">
+  <img src="LakshmikanthanK-CertifiedNetworkSecurityPractitioner(CNSP).jpg" alt="CNSP Certificate" width="600"/>
+  <p><em>CNSP Certificate - 83% Merit Pass</em></p>
+</div>
 
 **Connect**:
 - Portfolio: [letchupkt.vgrow.tech](https://letchupkt.vgrow.tech)
