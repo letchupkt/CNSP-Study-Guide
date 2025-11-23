@@ -1,3 +1,5 @@
+<img width="1700" height="460" alt="github-header-banner (4)" src="https://github.com/user-attachments/assets/d41c4fae-2469-45d6-a036-cda73ab16180" />
+
 # CNSP Exam Study Guide
 
 A comprehensive study guide and resource collection for the **Certified Network Security Practitioner (CNSP)** exam by The SecOps Group.
